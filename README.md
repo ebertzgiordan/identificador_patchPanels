@@ -1,6 +1,7 @@
 # **Projeto: Sistema de mapeamento de cabos de rede**
 
 Feito por: Giordan Ebertz
+Obs: O diagrama UML está no arquivo de relatório 😁
 
 **Descrição**
 
